@@ -32,5 +32,7 @@ You can see a list of the available materials here:
 
 These are located in the curriculum collection at the end of the children's section and are for use in the library only.
 
+---
 
+{% include "git+https://git.gitbook.com/broome-library/shared.git/books.md"  %}
 
