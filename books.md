@@ -4,7 +4,7 @@
 
 You can check to see if we have specific curriculum materials here:
 
-[http://www.librarything.com/profile/CSUCI](https://web.archive.org/web/20150906080750/http:/www.librarything.com/profile/CSUCI)
+[http://www.librarything.com/profile/CSUCI](http:/www.librarything.com/profile/CSUCI)
 
 The search box is in the upper right hand side of the screen and says "Search CSUCI's books"
 
@@ -14,7 +14,7 @@ If we do own the book, they will be located in the curriculum area at the end of
 
 Early-childhood student teachers studied \(seniors in ECS undergrad major\)worked to create responsive, high-quality early care and education for children of migrant farmworkers. The students rethink curriculum for young children of migrant farmworkers through their university coursework, by learning from the families and children of the workers, the employers of the families, and the early care and education staff who serve families through licensed programs and who have many years of experience working in Southern California. These activities, if appropriately implemented, can help optimize children's learning in different areas of development. This digital collection contains the activities the student teachers developed and when available images of the items created. Recommended books are available in the Kit section \(exhibithall\)of the Broome Library along with some of the activities.
 
-[Click here to access Activities](https://web.archive.org/web/20150906080750/http:/repository.library.csuci.edu/handle/10139/5925)
+[Click here to access Activities](http:/repository.library.csuci.edu/handle/10139/5925)
 
 ## Curriculum Collection
 
@@ -28,7 +28,7 @@ In 2010 and 2011, the Broome Library participated in the Spanish Textbook Progra
 
 You can see a list of the available materials here:
 
-[http://www.librarything.com/catalog/csuci&deepsearch=mexico](https://web.archive.org/web/20150906080750/http:/www.librarything.com/catalog/csuci&deepsearch=mexico)
+[http://www.librarything.com/catalog/csuci&deepsearch=mexico](http:/www.librarything.com/catalog/csuci&deepsearch=mexico)
 
 These are located in the curriculum collection at the end of the children's section and are for use in the library only.
 
