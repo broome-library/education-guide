@@ -16,12 +16,6 @@ Early-childhood student teachers studied \(seniors in ECS undergrad major\)worke
 
 [Click here to access Activities](http:/repository.library.csuci.edu/handle/10139/5925)
 
-## Curriculum Collection
-
-At the John Spoor Broome Library, we have a curriculum collection that includes many of the K-8 California adopted textbooks. We currently have a small collection of materials for grades 9-12and are working to expand this area. These items are located at the end of the children's area on the south side of the library and are organized by subject. The items in the curriculum collection do not check out and are for use in the library only.
-
-Our collection is a result of a partnership with Ventura County Office of Education and generous donations from publishers such as National Geographic and Houghton Mifflin Harcourt.
-
 ## Consulate of Mexico Textbook Program
 
 In 2010 and 2011, the Broome Library participated in the Spanish Textbook Program through the Consulate of Mexico in Oxnard. We have received textbooks in the areas of history, geography, mathematics, reading, and science.
